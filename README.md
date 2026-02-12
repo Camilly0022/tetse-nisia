@@ -13,4 +13,5 @@ git remote Esse comando gerencia os repositorios remotos associados ao seu repos
 clear limpa a tela
  git config --unset user.email/name remove o outro usuario
  git config --global --unset-all user.name remove todas as credencias no git
- monte de coisa 
+quando modificar algo NESTE ARQUIVO, de contral s, vai no git bash, escreve git add ., depois,  git commit -m "modifiquei2"
+"modifica o nome do commit", e depois git push 
