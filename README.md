@@ -13,3 +13,4 @@ git remote Esse comando gerencia os repositorios remotos associados ao seu repos
 clear limpa a tela
  git config --unset user.email/name remove o outro usuario
  git config --global --unset-all user.name remove todas as credencias no git
+ monte de coisa 
